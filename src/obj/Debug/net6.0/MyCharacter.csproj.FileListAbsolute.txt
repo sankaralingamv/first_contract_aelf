@@ -1,0 +1,12 @@
+/home/sankara/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.deps.json
+/home/sankara/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.dll
+/home/sankara/first_contract_aelf/src/bin/Debug/net6.0/MyCharacter.pdb
+/home/sankara/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.csproj.AssemblyReference.cache
+/home/sankara/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.GeneratedMSBuildEditorConfig.editorconfig
+/home/sankara/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.AssemblyInfoInputs.cache
+/home/sankara/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.AssemblyInfo.cs
+/home/sankara/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.csproj.CoreCompileInputs.cache
+/home/sankara/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.dll
+/home/sankara/first_contract_aelf/src/obj/Debug/net6.0/MyCharacter.pdb
+/home/sankara/first_contract_aelf/src/obj/Debug/net6.0/ref/MyCharacter.dll
+/home/sankara/first_contract_aelf/src/bin/Debug/net6.0/ref/MyCharacter.dll
